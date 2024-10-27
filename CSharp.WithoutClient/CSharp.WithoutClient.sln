@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.WithoutClient", "CSharp.WithoutClient\CSharp.WithoutClient.csproj", "{07DB530A-903A-4C85-A814-D57FA85B76BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07DB530A-903A-4C85-A814-D57FA85B76BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DB530A-903A-4C85-A814-D57FA85B76BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DB530A-903A-4C85-A814-D57FA85B76BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DB530A-903A-4C85-A814-D57FA85B76BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
